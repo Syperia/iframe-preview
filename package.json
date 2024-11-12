@@ -1,6 +1,6 @@
 {
   "name": "storybook-iframe-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Allows control of story parameters with the power of postmessage",
   "keywords": [
     "storybook-addons",
