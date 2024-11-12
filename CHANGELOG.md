@@ -1,3 +1,15 @@
+# v0.0.3 (Tue Nov 12 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Forth commit ([@Syperia](https://github.com/Syperia))
+
+#### Authors: 1
+
+- Basil ([@Syperia](https://github.com/Syperia))
+
+---
+
 # v0.0.2 (Tue Nov 12 2024)
 
 #### ⚠️ Pushed to `main`
