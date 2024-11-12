@@ -27,8 +27,8 @@ export const withIframeParentControls = (
       type: 'status',
       payload: {
         status: 'loaded',
-        globals,
-        args
+        globals: JSON.parse(JSON.stringify(globals)),
+        args: JSON.parse(JSON.stringify(args))
       }
     };
 
