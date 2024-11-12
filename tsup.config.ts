@@ -28,7 +28,6 @@ export default defineConfig(async (options) => {
   //     "exportEntries": ["./src/index.ts"],
   //     "managerEntries": ["./src/manager.ts"],
   //     "previewEntries": ["./src/preview.ts"]
-  //     "nodeEntries": ["./src/preset.ts"]
   //   }
   // }
   const packageJson = (await readFile("./package.json", "utf8").then(

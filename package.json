@@ -23,8 +23,6 @@
       "import": "./dist/preview.js",
       "require": "./dist/preview.cjs"
     },
-    "./preset": "./dist/preset.cjs",
-    "./manager": "./dist/manager.js",
     "./package.json": "./package.json"
   },
   "files": [
@@ -86,14 +84,8 @@
     "exportEntries": [
       "src/index.ts"
     ],
-    "managerEntries": [
-      "src/manager.tsx"
-    ],
     "previewEntries": [
       "src/preview.ts"
-    ],
-    "nodeEntries": [
-      "src/preset.ts"
     ]
   },
   "storybook": {
